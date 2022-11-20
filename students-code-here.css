@@ -1,0 +1,43 @@
+/* Fido */
+/*.monocle {
+    position: relative;
+    left: 13.5em;
+    top: 2.5em;
+}*/
+/*.sunglasses {
+    position: relative;
+    left: 13em;
+    bottom: 2em;
+}*/
+.funny-glasses {
+    position: relative;
+    left: 13.2em;
+    bottom: 6.9em;
+}
+/* Daisy */
+.bandana {
+    position: absolute;
+    top: 11em;
+    left: 7em;
+}
+
+/* Jack */
+.pawprint {
+    position: fixed;
+    top: 3em;
+    left: 4.1em;
+    z-index: 2;
+}
+
+/* Luna */
+.sticky img {
+    position: sticky;
+    top: 1em;
+    left: 1em;
+}
+
+/* Benji */
+
+.top-hat {
+    z-index: 1;
+}
